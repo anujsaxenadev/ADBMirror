@@ -6,8 +6,7 @@ Script that uses ADB to mirror the screen and display it as a stream.
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/OS-Android-lightgreen?style=for-the-badge&logo=android&logoColor=lightgreen">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Bash-1DA1F2?style=for-the-badge&logo=bash&logoColor=lightgreen">
- 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Shell-1DA1F2?style=for-the-badge&logo=shell&logoColor=lightgreen">
   <img alt="Static Badge" src="https://img.shields.io/badge/Version%20Control-Git-f18e33?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
